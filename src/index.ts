@@ -43,7 +43,7 @@ try {
 });
 
 // Приветствия
-bot.hears('привет', (ctx) => ctx.reply('Привет бахтибегими! 🌟'));
+bot.hears('привет', (ctx) => ctx.reply('Привет бхтибегими! 🌟'));
 bot.hears('hello', (ctx) => ctx.reply('Hello there! 👋'));
 bot.hears('hola', (ctx) => ctx.reply('¡Hola amigo! 🌞'));
 
